@@ -1,2 +1,2 @@
-# pizza-app
+# my-app
 pizza-app
